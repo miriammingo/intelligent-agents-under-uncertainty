@@ -67,8 +67,14 @@ intelligent-agents-under-uncertainty/
 ├── kurtz.py        # Logical reasoning agent and BFS navigation
 ├── palacio.py      # Bayesian agent and risk-based A* search
 ├── river_mdp.py    # MDP, Value Iteration and optimal policy
+├── report/
+│   └── project-report.pdf
 └── README.md
 ```
+
+## 📄 Project Report
+
+A detailed explanation of the methodology and results is available in the [project report](report/project-report.pdf).
 
 ## 👩‍💻 Author
 
